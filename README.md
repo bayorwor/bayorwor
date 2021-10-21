@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Bayorwor Abudu</h1>
-<h3>A passionate Software Engineer who builds mobile, web and backend services &</h3>
-<h3> Mentoring Tech startups and teaches Design Thinking from Ghana.</h3>
+<h4>A passionate Software Engineer who builds mobile, web and backend services &</h4>
+<h4> Mentoring Tech startups and teaches Design Thinking from Ghana.</h4>
 
 - 💬 **React, NextJs, React native, JavaScript,Dart, Flutter, NodeJs and others**
 
