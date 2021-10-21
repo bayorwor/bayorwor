@@ -1,13 +1,13 @@
 <h1>Hi 👋, I'm Bayorwor Abudu</h1>
 <h4>A passionate Software Engineer who builds mobile, web and backend services &</h4>
 <h4> Mentoring Tech startups and teaches Design Thinking from Ghana.</h4>
+https://user-images.githubusercontent.com/49689322/138338797-778b9d82-9650-4994-af25-e46a768e1bdd.gif
+
 
 - 💬 **React, NextJs, React native, JavaScript,Dart, Flutter, NodeJs and others**
 
 - 📫 **bayorwor60@gmail.com**
 
-
-https://user-images.githubusercontent.com/49689322/138338606-9de5864d-f5eb-4d7f-ae0b-ea800517c5e6.mp4
 
 
 - ⚡ **I can be crazy sometimes 😂😂**
