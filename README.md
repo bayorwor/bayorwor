@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bayorwor Abudu</h1>
-<h3 align="center">A passionate a Software Engineer who builds mobile, web and backend services & mentoring Tech startup and new product ideas from Ghana.</h3>
+<h3 align="center">A passionate Software Engineer who builds mobile, web and backend services & mentoring Tech startup and new product ideas from Ghana.</h3>
 
 - 💬 Ask me about **React, NextJs, React native, JavaScript,Dart, Flutter, NodeJs and others**
 
