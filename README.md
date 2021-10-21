@@ -6,6 +6,10 @@
 
 - 📫 **bayorwor60@gmail.com**
 
+
+https://user-images.githubusercontent.com/49689322/138338606-9de5864d-f5eb-4d7f-ae0b-ea800517c5e6.mp4
+
+
 - ⚡ **I can be crazy sometimes 😂😂**
 
 <h3 align="left">Connect with me:</h3>
