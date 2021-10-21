@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Bayorwor Abudu</h1>
-<h3 align="center">A passionate Software Engineer who builds mobile, web and backend services & mentoring Tech startup and new product ideas from Ghana.</h3>
+<h1>Hi 👋, I'm Bayorwor Abudu</h1>
+<h3>A passionate Software Engineer who builds mobile, web and backend services &</h3>
+<h3> Mentoring Tech startups and teaches Design Thinking from Ghana.</h3>
 
-- 💬 Ask me about **React, NextJs, React native, JavaScript,Dart, Flutter, NodeJs and others**
+- 💬 **React, NextJs, React native, JavaScript,Dart, Flutter, NodeJs and others**
 
-- 📫 How to reach me **bayorwor60@gmail.com**
+- 📫 **bayorwor60@gmail.com**
 
-- ⚡ Fun fact **I can be crazy sometimes 😂😂**
+- ⚡ **I can be crazy sometimes 😂😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
