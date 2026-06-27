@@ -115,7 +115,7 @@ Experienced Lead Senior Software Engineer with a strong track record in reviewin
 <div align="center">
 
 <!-- Replace bayorwor with your actual GitHub username -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=bayorwor&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=bayorwor&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayorwor&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
 <br/>
